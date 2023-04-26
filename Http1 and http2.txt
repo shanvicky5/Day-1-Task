@@ -1,0 +1,10 @@
+
+HTTP1
+
+http1 is the first version of hyper text transer protocal. it is tranfer the ono by only. https resource load by one by one
+if any one resoure fail to load. rest of all resorce will blocked.
+
+HTTP2
+
+http2 is next version hyper text transfer protocal . http2 data tranmitting multiple source at time. it any one resource 
+it will not affect other resorces.
